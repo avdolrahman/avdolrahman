@@ -9,7 +9,7 @@ I specialize in Marine Robotics & Deep Reinforcement Learning Projects.
 I'm a passionate researcher and developer focusing on the intersection of Underwater Robotics and Artificial intelligence. With a deep interest in Reinforcement learning, I aim to contribute to innovative solutions that can advance the field of Marine Robotics.
 
 ## Technologies & Tools
-- 🛠️ Linux (UBUNTU)
+- 🐧 Linux (UBUNTU)
 - 🐍 Python
 - 🤖 Gazebo
 - 🤖 ROS
