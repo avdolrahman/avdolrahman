@@ -1,4 +1,4 @@
-# Hi there, I'm [Abdelrahman] 👋
+# Hi there, I'm Abdelrahman 🤓
 
 I specialize in Marine Robotics & Deep Reinforcement Learning Projects.
 
