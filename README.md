@@ -13,3 +13,6 @@ I'm a passionate researcher and developer focusing on the intersection of Underw
 - 🐍 Python
 - 🤖 Gazebo
 - 🤖 ROS
+
+
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdel-rahman-magdy-/)
