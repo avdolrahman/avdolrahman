@@ -2,7 +2,7 @@
 
 I specialize in Marine Robotics & Deep Reinforcement Learning Projects.
 
-![Your GIF](https://64.media.tumblr.com/3f5e1d466d9b6a6442a9423453750e2b/tumblr_ovreabfGFQ1rm1sz1o1_500.gifv)
+
 
 
 ## About Me
