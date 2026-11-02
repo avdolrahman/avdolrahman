@@ -11,7 +11,7 @@ I'm a passionate researcher and developer focusing on the intersection of Underw
 ## Technologies & Tools
 - 🐧 Linux (UBUNTU)
 - 🐍 Python
-- 🤖 Gazebo
+- 🤖 Unity
 - 🤖 ROS
 
 
